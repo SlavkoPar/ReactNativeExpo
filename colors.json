@@ -1,0 +1,32 @@
+[
+	{
+	  "initialbgColor": "goldenrod",
+	  "bgColor": "#222",
+	  "nextbgColor": "#222"
+	},
+	{
+	  "initialbgColor": "goldenrod",
+	  "bgColor": "#222",
+	  "nextbgColor": "yellowgreen"
+	},
+	{
+	  "initialbgColor": "#222",
+	  "bgColor": "yellowgreen",
+	  "nextbgColor": "midnightblue"
+	},
+	{
+	  "initialbgColor": "yellowgreen",
+	  "bgColor": "midnightblue",
+	  "nextbgColor": "turquoise"
+	},
+	{
+	  "initialbgColor": "midnightblue",
+	  "bgColor": "turquoise",
+	  "nextbgColor": "goldenrod"
+	},
+	{
+	  "initialbgColor": "turquoise",
+	  "bgColor": "goldenrod",
+	  "nextbgColor": "#222"
+	}
+]
