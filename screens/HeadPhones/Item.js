@@ -89,7 +89,7 @@ export const Item = ({ imageUri, heading, description, index, scrollX}) => {
  const styles = StyleSheet.create({
 	itemStyle: {
 	  width,
-	  height,
+	  height: height-150,
 	  alignItems: 'center',
 	  justifyContent: 'center',
 	  borderWidth: 1,
